@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/sarah-rachel-65532720b/**
 
-- 📄 Know about my experiences [https://sarah-resume.tiiny.site](https://sarah-resume.tiiny.site)
+- 📄 Know about my experiences [https://sarah-resume.tiiny.site](https://sarah-rachel-resume.tiiny.site)
 
 - 😎 Fun fact **I am lively**
 
