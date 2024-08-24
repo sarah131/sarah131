@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sarah-rachel-65532720b/**
+- 📫 How to reach me **[LinkedIn].https://www.linkedin.com/in/sarah-rachel-65532720b/**
 
 - 👉 Do follow and share **[Youtube link](https://youtube.com/@theengineeringcodex?si=5o6xpI8eqK7-2fQf)**
 
-- 📄 Know about my experiences [https://sarah-resume.tiiny.site](https://sarah-rachel-resume.tiiny.site)
+- 📄 Know about my experiences [Resume](https://sarah-rachel-resume.tiiny.site)
 
 - 😎 Fun fact **I am lively**
 
