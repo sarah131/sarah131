@@ -1,18 +1,20 @@
 ![logo](https://github.com/sarah131/sarah131/blob/main/Sarah%20rachel.png)
 <h1 align="center">Hi 👋, I'm Sarah Rachel</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer and Tutor from India</h3>
 
 <img align ="right" alt="coding" width = "200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah131&label=Profile%20views&color=0e75b6&style=flat" alt="sarah131" /> </p>
 
-- 🔭 I’m currently pursuing **Computer Science**
+- 🔭 I’m currently pursuing **ME Computer Science** in Anna University
 
 - 🌱 I’m currently learning **Flutter in app development**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sarah-rachel-65532720b/**
+
+- 👉 Do follow and share **[Youtube link](https://youtube.com/@theengineeringcodex?si=5o6xpI8eqK7-2fQf)**
 
 - 📄 Know about my experiences [https://sarah-resume.tiiny.site](https://sarah-rachel-resume.tiiny.site)
 
