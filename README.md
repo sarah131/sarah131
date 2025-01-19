@@ -1,4 +1,4 @@
-![logo](https://github.com/sarah131/sarah131/blob/main/Sarah%20rachel.png)
+![logo]([https://github.com/sarah131/sarah131/blob/main/Sarah%20rachel.png](https://github.com/sarah131/sarah131/blob/main/SarahRachel.png))
 <h1 align="center">Hi 👋, I'm Sarah Rachel</h1>
 <h3 align="center">A passionate Software Engineer and Tutor from India</h3>
 
