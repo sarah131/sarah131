@@ -1,5 +1,5 @@
 ![logo](https://github.com/sarah131/sarah131/blob/main/SarahRachel.png)
-<h1 align="center">Hi 👋, I'm Sarah Rachel</h1>
+<h1 align="center">Hi there coders👋, </h1>
 <h3 align="center">A passionate Software Engineer and Tutor from India</h3>
 
 <img align ="right" alt="coding" width = "200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
